@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Div-yanshi881
-  ->I’m currently learning python and web development 
+  ->I’m currently learning python and web development.
+  
   ->I’m looking to collaborate on projects with those new learners like me to work like a team
 - 📫 How to reach me :- divyanshi.singh3612@gmail.com
 - 😄 Pronouns: learning/growing 
